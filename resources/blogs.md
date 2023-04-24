@@ -15,11 +15,16 @@ Explains the difference and similarities between different normalization process
 Explains which loss functions to use for different classification/regression models
 #code #beginner
 
+* [Prediction Intervals for Deep Learning Neural Networks](https://machinelearningmastery.com/prediction-intervals-for-deep-learning-neural-networks/)
+
+Calculating prediction uncertainty intervals for ensemble regression models
+#code
+
 ## Convolutional Neural Networks (CNN)
 * [What is a Convolutional Neural Network?](https://poloclub.github.io/cnn-explainer/)
 
 Explains different parts of a CNN with interactive examples.
-#interesting #explained #visualized
+#interesting #visualized
 
 * [A Comprehensive Guide to Convolutional Neural Networks](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
 
@@ -41,12 +46,18 @@ Different text classification algorithms.
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 An introduction to RNN with character embedding examples
-#interesting  #explained
+#interesting  #applied
 
 * [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 
 RNN visual introduction to attention
 #visualized
+
+## Ensemble Learning
+
+* [How to Combine Predictions for Ensemble Learning](https://machinelearningmastery.com/combine-predictions-for-ensemble-learning/)
+
+Strategies for combining predictions for regression and classification enseble models
 
 
 ## Transformers
@@ -60,7 +71,16 @@ Visual introduction to encoders and decoders in transformers
 * [Engineering Uncertainty Estimation in Neural Networks for Time Series Prediction at Uber](https://www.uber.com/blog/neural-networks-uncertainty-estimation/)
 
 Uber using LSTM for time series prediction. using neural networks for uncertianty estimation
-#explained
+#applied
+
+* [Fast and Robust Sliding Window Vectorization with NumPy](https://towardsdatascience.com/fast-and-robust-sliding-window-vectorization-with-numpy-3ad950ed62f5)
+
+Strategy to vectorize sliding window pre-processing for time series data using matrix manupulation.
+#code
+
+* [3 facts about time series forecasting that surprise experienced machine learning practitioners.](https://towardsdatascience.com/3-facts-about-time-series-forecasting-that-surprise-experienced-machine-learning-practitioners-69c18ee89387)
+
+Principles of time series forcasting and how they're different from traditional ML.
 
 ## Multi Models
 * [WIDeText: A Multimodal Deep Learning Framework](https://medium.com/airbnb-engineering/widetext-a-multimodal-deep-learning-framework-31ce2565880c)
