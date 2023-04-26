@@ -1,0 +1,36 @@
+\documentclass[12pt,letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[margin=1in]{geometry}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.7}
+
+\newcommand\calculator{\tikz{
+\node (c) [inner sep=0pt, draw, fill=black, anchor=south west]{\phantom{N}};
+\begin{scope}[x=(c.south east),y=(c.north west)]
+   \fill[white] (.1,.7) rectangle (.9,.9);
+   \foreach \x in {.1, .33, .55, .79}{
+   \foreach \y in {.1, .24, .38, .53}{
+   \fill[white] (\x,\y) rectangle +(.11,.07);}}
+\end{scope}
+}}
+\def\calcicon#1{\noindent#1 \calculator\ }
+
+
+\author{Michelle Krummel}
+\title{IB Math Analysis and Approaches HL}
+
+\begin{document}
+\calculator\ Hello!
+
+\begin{tabular}{|c|c|}
+\hline 
+$x$ & 1 \\ 
+\hline 
+$f(x)$ & 2 \\ 
+\hline 
+\end{tabular} 
+\end{document}
