@@ -20,6 +20,13 @@ Explains which loss functions to use for different classification/regression mod
 Calculating prediction uncertainty intervals for ensemble regression models
 #code
 
+## Model Optimization
+
+* [Code Adam Optimization Algorithm From Scratch](https://machinelearningmastery.com/adam-optimization-from-scratch/)
+
+What is Adam optimization function and how to create it
+#code
+
 ## Convolutional Neural Networks (CNN)
 * [What is a Convolutional Neural Network?](https://poloclub.github.io/cnn-explainer/)
 
