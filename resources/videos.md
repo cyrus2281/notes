@@ -18,9 +18,21 @@ Complete explanation of SDG from ground up
 * [A friendly introduction to Recurrent Neural Networks](https://youtu.be/UNmqTiOnRfg) [22:44]
 
 Explains RNN with basic conecpts and simplified math
-#interesting #math #beginner
+#interesting #simplified #math
 
 ## Convolutional Neural Networks (CNN)
+
+## Transformers
+
+### Attention
+* [Attention is all you need; Attentional Neural Network Models | Łukasz Kaiser | Masterclass](https://youtu.be/rBCqOTEfxvg)[48:22]
+
+ An explantion of what is attention and attentional neural network models from one of the co-authors from google brain
+
+* [Attention Is All You Need [Yannic Kilcher]](https://youtu.be/iDulhoQ2pro)[27:06]
+
+Goes over google's research paper, Attention is all you need.
+#interesting #simplified #visualized
 
 ## Time Series
 
