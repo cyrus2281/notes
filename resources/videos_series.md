@@ -13,3 +13,8 @@ Introduction to Deep Leraning lectures by University of MIT
 ## Convolutional Neural Networks (CNN)
 
 # Math
+
+## Statistics
+[CrashCourse Statistics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
+
+ Simplified statistics concepts and intuition with illustrations
