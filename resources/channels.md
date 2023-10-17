@@ -13,3 +13,9 @@ Linear algebra, calculus, and neural networks
 * [Alexander Amini](https://www.youtube.com/@AAmini/)
 
 MIT introduction to deep learning 
+
+## Mathematics
+
+* [STEM Support](https://www.youtube.com/@stemsupport3645)
+
+Linear Algebra and Calculus 1

@@ -24,6 +24,10 @@ Explains RNN with basic conecpts and simplified math
 
 ## Transformers
 
+* [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (Paper Explained)](https://youtu.be/TrdevFK_am4)[29:55]
+
+Goes over the paper about using Transformers instead of Convlutions for image recognition.
+
 ### Attention
 * [Attention is all you need; Attentional Neural Network Models | Łukasz Kaiser | Masterclass](https://youtu.be/rBCqOTEfxvg)[48:22]
 
