@@ -1,6 +1,6 @@
 # Mathematics and Machine Learning Notes
 
-This repository contains the notes taken while studying different materials in the field of mathematics and machine learning. The notes are written in Jupyter notebooks and are also available Google Colab.
+This repository contains the notes taken while studying different materials in the field of mathematics and machine learning. The notes are written in Jupyter notebooks and are also available Google Colab. Mathematics are written in LaTeX.
 
 In addition, I have included some of the resources I have used to study the topics in the resources folder.
 
@@ -47,11 +47,13 @@ You can find varies resource for studying mathematics and machine learning in th
 
 ## Contributing
 
+You can recommend new resources in the ["Recommend new resources" disucssion thread](https://github.com/cyrus2281/notes/discussions/4)
+
 This repository does not accept pull requests as it includes personal notes taken while studying. However, if you like to add/update/remove any sections, feel free to fork the repository and make the changes there. If you like, you can tag me in your PR, and I might reflect the changes to the primary repository as well.
 
 ## Bugs and Issues
 
-As these notes are taken while studying and they are not official materials, I could have understood something wrongly or made a mistake while writing the notes. If you find any mistakes, please open an issue in the repository and I will try to fix it as soon as possible. **Please be as detailed as possible in you issue report.**
+As these notes are taken while studying and they are not official materials, I could have miss understood something, or made a mistake while writing down the notes. If you find any mistakes, please open an issue in the repository and I will try to fix it as soon as possible. **Please be as detailed as possible in your issue report.**
 
 ## Disclaimer
 
