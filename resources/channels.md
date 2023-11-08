@@ -19,3 +19,7 @@ MIT introduction to deep learning
 * [STEM Support](https://www.youtube.com/@stemsupport3645)
 
 Linear Algebra and Calculus 1
+
+* [Jon Krohn](https://www.youtube.com/@JonKrohnLearns/)
+
+Data science, linear algebra, calculus for machine learning
