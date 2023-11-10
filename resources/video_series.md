@@ -15,6 +15,11 @@ Introduction to Deep Leraning lectures by University of MIT
 # Math
 
 ## Statistics
-[CrashCourse Statistics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
+
+* [CrashCourse Statistics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
 
  Simplified statistics concepts and intuition with illustrations
+
+* [Statistics Course for Beginners: Introduction to Statistics](https://youtube.com/playlist?list=PLqzoL9-eJTNAB5st3mtP_bmXafGSH1Dtz&si=W7ZtljYDHhuKwKs4)
+
+Statistics in details with detailed math.
