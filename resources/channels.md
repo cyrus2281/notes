@@ -23,3 +23,6 @@ Playlists on linear algebra, calculus and probability and how they are used in m
 * [Alexander Amini](https://www.youtube.com/@AAmini/)
 
 MIT introduction to deep learning 
+
+
+

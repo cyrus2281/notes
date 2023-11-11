@@ -14,7 +14,17 @@ Introduction to Deep Leraning lectures by University of MIT
 
 # Math
 
-## Statistics
+## Calculus
+* [Calculus for Machine Learning](https://youtube.com/playlist?list=PLRDl2inPrWQVu2OvnTvtkRpJ-wz-URMJx&si=rmv8HuERzi8hd1fY)
+
+Linear Algebra overview course with usage examples in machine learning
+
+## Linear Algebra
+* [Linear Algebra for Machine Learning](https://youtube.com/playlist?list=PLRDl2inPrWQVu2OvnTvtkRpJ-wz-URMJx&si=rmv8HuERzi8hd1fY)
+
+Calculus overview course with usage examples in machine learning
+
+## Statistics & Probability 
 
 * [CrashCourse Statistics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
 
@@ -23,3 +33,8 @@ Introduction to Deep Leraning lectures by University of MIT
 * [Statistics Course for Beginners: Introduction to Statistics](https://youtube.com/playlist?list=PLqzoL9-eJTNAB5st3mtP_bmXafGSH1Dtz&si=W7ZtljYDHhuKwKs4)
 
 Statistics in details with detailed math.
+
+* [Probability for Machine Learning](https://youtube.com/playlist?list=PLRDl2inPrWQWwJ1mh4tCUxlLfZ76C1zge&si=3gbE4LNE07ePhp6w)
+
+Probability overview course with usage examples in machine learning (not complete)
+
