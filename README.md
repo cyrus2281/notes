@@ -1,6 +1,6 @@
 # Mathematics and Machine Learning Notes
 
-This repository contains the notes taken while studying different materials in the field of mathematics and machine learning. The notes are written in Jupyter notebooks and are also available Google Colab. Mathematics are written in LaTeX.
+This repository contains the notes taken while studying different materials in the field of mathematics, machine learning, and deep learning. The notes are written in Jupyter notebooks and are also available Google Colab. Mathematics are written in LaTeX format.
 
 In addition, I have included some of the resources I have used to study the topics in the resources folder.
 
@@ -11,7 +11,12 @@ In addition, I have included some of the resources I have used to study the topi
     * [Calculus](./Math/Calculus.ipynb)
     * [Statistics](./Math/Statistics.ipynb)
 * [Machine Learning](./MachineLearning/)
-    * [Deep Learning](./MachineLearning/Deep-Learning-notes.ipynb)
+    * [ML_Prerequisites.ipynb](./MachineLearning/ML_Prerequisites.ipynb)
+    * [Linear_and_Logistic_Regression.ipynb](./MachineLearning/Linear_and_Logistic_Regression.ipynb)
+    * [Supervised_Machine_Learning.ipynb](./MachineLearning/Supervised_Machine_Learning.ipynb)
+    * [Recommenders.ipynb](./MachineLearning/Recommenders.ipynb)
+    * [Tensorflow](./MachineLearning/Tensorflow)
+    * [PyTorch](./MachineLearning/PyTorch)
 * [LaTex](./LaTeX/)
 * [Resources](./resources/)
     * [blogs](./resources/blogs.md)
@@ -19,6 +24,7 @@ In addition, I have included some of the resources I have used to study the topi
     * [platforms](./resources/platforms.md)
     * [video_series](./resources/video_series.md)
     * [videos](./resources/videos.md)
+    * [Courses](./resources/courses.md)
 
 
 ## Section Details
@@ -29,7 +35,11 @@ This section includes the notes for different topics in mathematics.
 
 ### Machine Learning
 
-This section includes the notes for different topics in machine learning and deep learning. (This section is still underdeveloped and will be further updates as I study along)
+This section includes the notes for different topics in machine learning and deep learning. The notes are complemented by Python codes and mathematical equations.
+
+Sub-directories include the notes for that were larger to put in a single file or were from different sources.
+
+This section is continuously being updated as I study along.
 
 ### LaTex
 
@@ -44,6 +54,7 @@ You can find varies resource for studying mathematics and machine learning in th
 * [Platforms](./resources/platforms.md): These are website that offer courses or learning material on different topics in mathematics and machine learning.
 * [Video Series](./resources/video_series.md): These are YouTube video series that explain a topic in detail.
 * [Videos](./resources/videos.md): These are single videos that explain a topic in detail.
+* [Courses](./resources/courses.md): These are online courses or instructors from platforms like Udemy, Coursera, etc.
 
 ## Contributing
 
