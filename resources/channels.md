@@ -24,5 +24,6 @@ Playlists on linear algebra, calculus and probability and how they are used in m
 
 MIT introduction to deep learning 
 
+* [code_your_own_AI](https://www.youtube.com/@code4AI/)
 
-
+A channel with vidoes on latest AI topics (including LLMs). Detailed explaination + code

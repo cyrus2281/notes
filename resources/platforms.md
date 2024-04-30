@@ -8,6 +8,12 @@ Math courses from elementary school to college in all subjects.
 
 Math blogs from elementary school to college in most subjects.
 
+# AI
+
+* [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
+
+Blogs by Jason Brownlee around important topics of AI for all levels
+
 
 # Github
 
@@ -30,3 +36,19 @@ Learn how to design, develop, deploy and iterate on production-grade ML applicat
 * [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 
 12 Weeks, 24 Lessons, AI for All!
+
+# Visualization
+
+* [Tensorflow Projector](https://projector.tensorflow.org/)
+Visualizing word emmedding
+
+* [Tensorflow Playground](https://playground.tensorflow.org/)
+Visualizing neural networks
+
+* [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+Visualizing CNN architecture
+
+* [Neuronpedia](https://www.neuronpedia.org/)
+
+Visualizing and diving deep into transformers architecture and which neurons get activated.
+

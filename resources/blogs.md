@@ -74,6 +74,11 @@ Strategies for combining predictions for regression and classification enseble m
 Visual introduction to encoders and decoders in transformers
 #visualized
 
+## Large Language Models
+
+* [What rank (r) and alpha to use in LoRA in LLM fine-tuning?](https://medium.com/@fartypantsham/what-rank-r-and-alpha-to-use-in-lora-in-llm-1b4f025fd133)
+Explanation on the effect of rank and alpha used in QLoRA in LLM fine-tuning 
+
 ## Time Series
 * [Engineering Uncertainty Estimation in Neural Networks for Time Series Prediction at Uber](https://www.uber.com/blog/neural-networks-uncertainty-estimation/)
 

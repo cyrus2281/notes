@@ -6,11 +6,13 @@ Video Series Resources
 Introduction to Deep Leraning lectures by University of MIT
 #beginner #interesting
 
-## Natural Language Processing (NLP)
+* [3B1B Neural Networks](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=vkFayQq3jnrhlcm-)
 
-## Recurrent Neural Networks (RNN)
+Everything about Neural Networks, deeply visualized. (Also covering transformers)
 
-## Convolutional Neural Networks (CNN)
+* [StatQuest Neural Networks / Deep Learning](https://youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1&si=No8XyZGX_HZoG3PO)
+
+Visualized, animated, and math based tutorial on NN and DL.
 
 # Math
 

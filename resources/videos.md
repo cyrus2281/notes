@@ -1,4 +1,4 @@
-Video Resources
+ Video Resources
 
 # Deep Learning
 
@@ -45,6 +45,21 @@ Goes over google's research paper, Attention is all you need.
 
 Time series exaplined in details (2 parts)
 #math 
+
+## Large Language Models
+
+* [Understanding 4bit Quantization: QLoRA explained (w/ Colab)](https://youtu.be/TPcXVJ1VSRI) [42:05]
+
+QLoRA 4bit Quantization for memory efficient fine-tuning of LLMs explained in detailed.
+
+* [LoRA explained (and a bit about precision and quantization)](https://youtu.be/t509sv5MT0w) [17:06]
+
+Low Rank adapters (LoRA) explained in details + math and code
+#math
+
+* [Function Calling Datasets, Training and Inference](https://youtu.be/hHn_cV5WUDI) [1:16:35]
+
+Quick walk through on how to fine-tune LLMs on a custom dataset (code not available)
 
 # Math
 
