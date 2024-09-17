@@ -11,6 +11,8 @@ In addition, I have included some of the resources I have used to study the topi
     * [Calculus](./Math/Calculus.ipynb)
     * [Statistics](./Math/Statistics.ipynb)
 * [Machine Learning](./MachineLearning/)
+    * [Deep_Learning.ipynb](./MachineLearning/Deep_Learning.ipynb)
+    * [Generative_AI.ipynb](./MachineLearning/Generative_AI.ipynb)
     * [ML_Prerequisites.ipynb](./MachineLearning/ML_Prerequisites.ipynb)
     * [Linear_and_Logistic_Regression.ipynb](./MachineLearning/Linear_and_Logistic_Regression.ipynb)
     * [Supervised_Machine_Learning.ipynb](./MachineLearning/Supervised_Machine_Learning.ipynb)
@@ -18,6 +20,7 @@ In addition, I have included some of the resources I have used to study the topi
     * [Tensorflow](./MachineLearning/Tensorflow)
     * [PyTorch](./MachineLearning/PyTorch)
 * [LaTex](./LaTeX/)
+* [Paper Summary](./PaperSummary/PaperSummaries.md)
 * [Resources](./resources/)
     * [blogs](./resources/blogs.md)
     * [channels](./resources/channels.md)
@@ -40,6 +43,10 @@ This section includes the notes for different topics in machine learning and dee
 Sub-directories include the notes for that were larger to put in a single file or were from different sources.
 
 This section is continuously being updated as I study along.
+
+### Paper Summary
+
+This section includes the summaries of different papers I have read. The summaries are written in markdown format. The summaries are either written in my own words or are direct quotes from the paper. A direct link to the paper is also included in the summary.
 
 ### LaTex
 
