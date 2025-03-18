@@ -122,4 +122,21 @@ significantly more than those produced by the same model.
 - The core concept of Meta Agent Search is to instruct a meta agent to iteratively create interestingly new agents, evaluate them, add them to an archive that stores discovered agents, and use this archive to help the meta agent in subsequent iterations create yet more interestingly new agents.
   - Search Space: The search space defines which agentic systems can be represented and thus discovered in ADAS.
   - Search Algorithm: The search algorithm defines how ADAS algorithms explore the search space. Since the search space is often very large or even unbounded, the exploration-exploitation tradeoff should be considered. Ideally, the algorithm can both quickly discover high-performance agentic systems and avoid remaining stuck in a local optimum.
-  - Evaluation Function: Depending on the application of the ADAS algorithm, we may consider different objectives to optimize, such as performance, cost, latency, or safety of agents. An evaluation function defines how to evaluate a candidate agent on those objectives. 
+  - Evaluation Function: Depending on the application of the ADAS algorithm, we may consider different objectives to optimize, such as performance, cost, latency, or safety of agents. An evaluation function defines how to evaluate a candidate agent on those objectives.
+ 
+
+## [A Survey on the Memory Mechanism of Large Language Model based Agents](https://arxiv.org/abs/2404.13501)
+- In the agent-environment interaction process, there are three key phases, that is, (1) the agent perceives information from the environment, and stores it into the memory; (2) the agent processes the stored information to make it more usable; and (3) the agent takes the next action based on the processed memory information.
+  - Memory Writing. This operation aims to project the raw observations into the actually stored memory contents, which are more informative and concise. It corresponds to the first phase of the agent-environment interaction process.
+  - Memory Management. This operation aims to process the stored memory information to make it more effective, for example, summarizing high-level concepts to make the agent more generalizable, merging similar information to reduce redundancy, and forgetting unimportant or irrelevant information to remove its negative influence. This operation corresponds to the second phase of the agent-environment interaction process.
+  - Memory Reading. This operation aims to obtain important information from the memory to support the next agent action. It corresponds to the third phase of the agent-environment interaction process.
+- Memory Sources:
+  - Inside-trial Information: In the agent-environment interaction process, the historical steps within a trial are usually the most relevant and informative signals to support the agent’s future actions.
+  - Cross-trial Information: For LLM-based agents, the information accumulated across multiple trials in the environment is also a crucial part of the memory, typically including successful and failed actions and their insights, such as failure reasons, common action patterns to succeed, and so on.
+  - External Knowledge: LLM-based agents can easily incorporate external knowledge in textual forms (e.g., Wikipedia 3) to facilitate their decisions. Moreover, most external knowledge can be acquired by accessing the APIs of various tools dynamically in real time according to the task needs, thus mitigating the problem of outdated knowledge. 
+- Memory Forms
+  - there are two forms to represent the memory contents: textual form and parametric form. In textual form, the information is explicitly retained and recalled by natural languages. In parametric form, the memory information is encoded into parameters and implicitly influences the agent’s actions.
+- Evaluation of memory mechanisms involves both direct and indirect methods to assess how well the memory supports the agent. Direct evaluations include subjective human judgment or objective metrics like retrieval accuracy, while indirect evaluations test the agent’s performance on tasks requiring long-term memory, such as conversation continuity, multi-step reasoning, or knowledge-based question answering.
+
+
+
